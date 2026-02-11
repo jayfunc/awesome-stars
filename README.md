@@ -6,7 +6,6 @@
 ## Contents
 
 - [Assembly](#assembly)
-- [AutoIt](#autoit)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -38,10 +37,6 @@
 
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
-
-## AutoIt 
-
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 
 ## C 
 
