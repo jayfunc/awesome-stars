@@ -771,7 +771,6 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [NLPIR-team/NLPIR](https://github.com/NLPIR-team/NLPIR) - 
 - [citra-emu/citra-web](https://github.com/citra-emu/citra-web) - Citra website source code
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 - [nelenkov/android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
 - [iwxf/free-v2ray](https://github.com/iwxf/free-v2ray) - 
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
