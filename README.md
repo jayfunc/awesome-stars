@@ -50,6 +50,7 @@
 
 ## C# # 
 
+- [rocksdanister/weather](https://github.com/rocksdanister/weather) - Windows native weather app powered by DirectX12 animations
 - [huanlin/nchinese](https://github.com/huanlin/nchinese) - C# library for handling Chinese characters.
 - [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
 - [xyh20180101/RomajiConverter.WinUI](https://github.com/xyh20180101/RomajiConverter.WinUI) - 使用WinUI 3框架开发的Win11风格罗马音转换器
