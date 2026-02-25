@@ -221,7 +221,7 @@
 - [moeshin/ai-schedule-chaoxing](https://github.com/moeshin/ai-schedule-chaoxing) - 小爱课程表适配-超星综合教学管理系统
 - [yusixian/AISchedule_myparser](https://github.com/yusixian/AISchedule_myparser) - 小爱课程表适配新正方教务系统-已适配河南工业大学、广西大学
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
+- [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
@@ -236,6 +236,7 @@
 
 ## Kotlin 
 
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
