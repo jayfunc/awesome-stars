@@ -96,7 +96,7 @@
 - [xleon/HTML2XAML](https://github.com/xleon/HTML2XAML) - Utililty to inject HTML into a XAML RichTextBlock
 - [jimmyjxiao/RichTextBlock.Html2Xaml](https://github.com/jimmyjxiao/RichTextBlock.Html2Xaml) - Html extension property for WinRT RichTextBlock control that converts HTML formatted text to XAML
 - [VincentH-Net/WinRT-RichTextBlock.Html2Xaml](https://github.com/VincentH-Net/WinRT-RichTextBlock.Html2Xaml) - Html extension property for WinRT RichTextBlock control that converts HTML formatted text to XAML
-- [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / W
+- [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - ARCHIVE - New Repo: https://aka.ms/toolkit/windows
 - [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
