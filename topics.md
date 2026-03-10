@@ -47,6 +47,7 @@
 - [flutter-apps](#flutter-apps)
 - [font](#font)
 - [framework](#framework)
+- [game](#game)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -156,6 +157,7 @@
 
 ## android 
 
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -419,6 +421,10 @@
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 - [ElderDrivers/EdXposedManager](https://github.com/ElderDrivers/EdXposedManager) - Companion Android application for EdXposed
 
+## game 
+
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+
 ## git 
 
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -507,6 +513,7 @@
 
 ## java 
 
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - 快速、简洁、解决大文件内存溢出的java处理Excel工具
 - [mmjbds999/react-native-scanidcard](https://github.com/mmjbds999/react-native-scanidcard) - 身份证扫描（react-native）/二代身份证识别／准确率满足普通项目需求
 
