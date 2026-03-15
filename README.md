@@ -156,7 +156,6 @@
 - [wasabeef/flutter-architecture-blueprints](https://github.com/wasabeef/flutter-architecture-blueprints) - Flutter Architecture Blueprints is a project that introduces MVVM architecture and project structure approaches to developing Flutter apps.
 - [ajinasokan/tag](https://github.com/ajinasokan/tag) - Digital version of the classic tag game. Made for #FlutterCreate contest.
 - [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
 
 ## Dockerfile 
@@ -249,6 +248,7 @@
 - [android/platform-samples](https://github.com/android/platform-samples) - A collection of samples of different Android OS platform APIs.
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
 - [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico) - A powerful and extensible multiplatform chart library.
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [harmittaa/KoinExample](https://github.com/harmittaa/KoinExample) - Basic example of setting up Koin 2.0.1 with AndroidX
 - [android/user-interface-samples](https://github.com/android/user-interface-samples) - Multiple samples showing the best practices in the user interface on Android.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
