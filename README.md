@@ -255,6 +255,7 @@
 - [Robotxm/BetterMiuiExpress](https://github.com/Robotxm/BetterMiuiExpress) - BetterMiuiExpress is an Xposed module that prevents express details to be showed in third-party apps such as Taobao, Cainiao, etc. and shows a custom activity to display the details.
 - [MoyuruAizawa/TimetableLayout](https://github.com/MoyuruAizawa/TimetableLayout) - TimetableLayout is a RecyclerView.LayoutManager to display the timetable for Android.
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 
 ## MDX 
@@ -351,7 +352,6 @@
 - [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
 - [triwinds/ns-emu-tools](https://github.com/triwinds/ns-emu-tools) - 一个用于安装/更新 NS 模拟器的工具
 - [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 ## SCSS 
 
