@@ -266,6 +266,7 @@
 ## Others 
 
 - [Chenyu-otf/chenyuluoyan_thin](https://github.com/Chenyu-otf/chenyuluoyan_thin) - 「辰宇落雁體」是我與韋辰在學校的自主學習計畫，由韋辰負責書寫，我進行後製而成。手寫字型就像是我們將字詞複寫於紙上，讓字跡留下，以這種近似雋永的形式封裝，使被複寫的日常沒有保存期限，也像是一種永恆的召喚，在任何無法抵達的以後，都能為你書寫成篇。
+- [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - 
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
 - [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
@@ -314,7 +315,6 @@
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) - Automatically create and populate albums in Immich from a folder structure in external libraries
-- [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [ShadyLeaf/Bili2Text](https://github.com/ShadyLeaf/Bili2Text) - Transcribe Bilibili Video to Text
 - [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
