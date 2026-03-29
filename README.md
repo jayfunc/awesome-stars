@@ -49,6 +49,7 @@
 
 ## C# # 
 
+- [DubyaDude/WindowsMediaController](https://github.com/DubyaDude/WindowsMediaController) - Allows developers to more easily get information from and interact with the Windows 10/11 OS media interface. (Also referred to Windows System Media Transport Controls (SMTC))
 - [WXRIW/Lyricify-Lyrics-Helper](https://github.com/WXRIW/Lyricify-Lyrics-Helper) - 集成 Lyricify 所需的歌词相关功能
 - [character-map-uwp/Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) - A modern, native UWP replacement for the Win32 Character Map and Windows Font Viewer with flawless high DPI and touch support.
 - [rocksdanister/weather](https://github.com/rocksdanister/weather) - Windows native weather app powered by DirectX12 animations
