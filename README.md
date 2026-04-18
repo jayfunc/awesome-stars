@@ -57,7 +57,7 @@
 - [huanlin/nchinese](https://github.com/huanlin/nchinese) - C# library for handling Chinese characters.
 - [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
 - [xyh20180101/RomajiConverter.WinUI](https://github.com/xyh20180101/RomajiConverter.WinUI) - 使用WinUI 3框架开发的Win11风格罗马音转换器
-- [Live-Charts/LiveCharts2](https://github.com/Live-Charts/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
+- [Live-Charts/LiveCharts2](https://github.com/Live-Charts/LiveCharts2) - Beautiful, interactive charts, maps, and gauges. One API for every .NET UI framework.
 - [skazantsev/WebDavClient](https://github.com/skazantsev/WebDavClient) - Asynchronous cross-platform WebDAV client for .NET Core
 - [TalAloni/SMBLibrary](https://github.com/TalAloni/SMBLibrary) - Free, Open Source, User-Mode SMB 1.0/CIFS, SMB 2.0, SMB 2.1 and SMB 3.0 server and client library
 - [robinrodricks/FluentFTP](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS client for .NET & .NET Standard, optimized for speed. Provides extensive FTP commands, File uploads/downloads, SSL/TLS connections, Automatic directory listing parsing, File hashing/ch
