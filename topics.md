@@ -407,6 +407,7 @@
 
 ## emulator 
 
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [HerXayah/road-to-yuzu-without-switch](https://github.com/HerXayah/road-to-yuzu-without-switch) - This Repo explains how to install the Yuzu Switch Emulator without a Switch. Also works for Suyu
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
