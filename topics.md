@@ -669,7 +669,7 @@
 
 - [DubyaDude/WindowsMediaController](https://github.com/DubyaDude/WindowsMediaController) - Allows developers to more easily get information from and interact with the Windows 10/11 OS media interface. (Also referred to Windows System Media Transport Controls (SMTC))
 - [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
-- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
