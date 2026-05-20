@@ -198,7 +198,7 @@
 - [sorakylin/code_demo](https://github.com/sorakylin/code_demo) - Demo/code/example using some java framework(eg SSM, SpringBoot, SpringCloud).
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [chrisbanes/Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) - DEPRECATED
-- [material-components/material-components-android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
+- [material-components/material-components-android](https://github.com/material-components/material-components-android) - [MAINTENANCE MODE] Modular and customizable Material Design UI components for Android
 - [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 难得一见 Jetpack MVVM 最佳实践。在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解。
 - [AchillesL/jianshu-sudokuX](https://github.com/AchillesL/jianshu-sudokuX) - 
 - [mmjbds999/react-native-scanidcard](https://github.com/mmjbds999/react-native-scanidcard) - 身份证扫描（react-native）/二代身份证识别／准确率满足普通项目需求
@@ -378,6 +378,7 @@
 
 ## TypeScript 
 
+- [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [apoint123/inflink-rs](https://github.com/apoint123/inflink-rs) - 为网易云音乐提供 SMTC 和 Discord RPC 支持
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
