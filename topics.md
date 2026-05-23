@@ -51,6 +51,7 @@
 - [framework](#framework)
 - [game](#game)
 - [git](#git)
+- [github](#github)
 - [go](#go)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
@@ -458,6 +459,10 @@
 ## git 
 
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+
+## github 
+
+- [luizvbo/kstars](https://github.com/luizvbo/kstars) - Top 1000 repositories on GitHub (with more stars)
 
 ## go 
 
