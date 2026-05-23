@@ -355,6 +355,7 @@
 
 ## Rust 
 
+- [luizvbo/kstars](https://github.com/luizvbo/kstars) - Top 1000 repositories on GitHub (with more stars)
 - [apoint123/QQMusic-ID-Injector](https://github.com/apoint123/QQMusic-ID-Injector) - 一个适用于 QQ 音乐客户端的插件，可将 QQ 音乐当前播放的 ID 上传到 SMTC 中。
 - [amll-dev/amll-ttml-db](https://github.com/amll-dev/amll-ttml-db) - 作者特供给 AMLL 的 TTML 逐词歌词库，也欢迎大家前来建设本仓库
 - [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
