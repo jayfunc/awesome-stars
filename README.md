@@ -395,6 +395,8 @@
 
 ## TypeScript 
 
+- [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review
+- [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [apoint123/inflink-rs](https://github.com/apoint123/inflink-rs) - 为网易云音乐提供 SMTC 和 Discord RPC 支持
