@@ -474,6 +474,8 @@
 
 ## github 
 
+- [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review
+- [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [luizvbo/kstars](https://github.com/luizvbo/kstars) - Top 1000 repositories on GitHub (with more stars)
 
 ## go 
@@ -1079,6 +1081,7 @@
 
 ## video 
 
+- [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 
