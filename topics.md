@@ -769,7 +769,7 @@
 - [ghost1372/DevWinUI](https://github.com/ghost1372/DevWinUI) - DevWinUI is a collection of useful classes, controls, styles, and codes for WinUI 3. Create a WinUI 3 app in less than a minute with the built-in project templates and scaffolding tools.
 - [mono/taglib-sharp](https://github.com/mono/taglib-sharp) - Library for reading and writing metadata in media files
 - [TwilightLemon/MyToolBar](https://github.com/TwilightLemon/MyToolBar) - 为Surface Pro而生的顶部工具栏 支持触控和笔快捷方式
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [alexhua/Aria2-Manager](https://github.com/alexhua/Aria2-Manager) - A useful tool to run Aria2 in the background easily
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) - Automatically create and populate albums in Immich from a folder structure in external libraries
@@ -912,7 +912,6 @@
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 开源、免费、跨平台的 B 站视频下载工具，支持多线程加速、音视频分离、弹幕元数据获取、自定义命名与分类等功能。Open Source, Free, Cross-Platform Bilibili Video Downloader.
 - [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
