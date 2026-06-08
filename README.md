@@ -54,6 +54,7 @@
 
 ## C# # 
 
+- [m8tec/apple-music-animated-artworks](https://github.com/m8tec/apple-music-animated-artworks) - Fetch & download Apple Music animated album artworks as mp4 or webp. Supports search by artist/album or direct URL.
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
