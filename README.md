@@ -259,7 +259,7 @@
 - [osipxd/encrypted-datastore](https://github.com/osipxd/encrypted-datastore) - Extensions to store DataStore in EncryptedFile
 - [android/platform-samples](https://github.com/android/platform-samples) - A collection of samples of different Android OS platform APIs.
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
-- [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico) - A powerful and extensible multiplatform chart library.
+- [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico) - A powerful and extensible chart library for Compose Multiplatform.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [harmittaa/KoinExample](https://github.com/harmittaa/KoinExample) - Basic example of setting up Koin 2.0.1 with AndroidX
 - [android/user-interface-samples](https://github.com/android/user-interface-samples) - Multiple samples showing the best practices in the user interface on Android.
