@@ -598,6 +598,7 @@
 
 ## kotlin 
 
+- [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui) - Fluent Design UI library for Compose Multiplatform
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
