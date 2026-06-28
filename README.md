@@ -40,6 +40,7 @@
 
 ## Batchfile 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [ErveI/screenoff](https://github.com/ErveI/screenoff) - Turns off Windows screen with a single click without putting it to Sleep mode.
 
 ## C 
@@ -56,7 +57,6 @@
 ## C# # 
 
 - [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark) - jellyfin电影元数据插件
 - [m8tec/apple-music-animated-artworks](https://github.com/m8tec/apple-music-animated-artworks) - Fetch & download Apple Music animated album artworks as mp4 or webp. Supports search by artist/album or direct URL.
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
@@ -286,7 +286,7 @@
 
 ## Others 
 
-- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 420+ apps that embrace the WinUI 3 Design
+- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 500+ apps that embrace the WinUI 3 Design
 - [HotarunIchijou/fluent-design-app-list](https://github.com/HotarunIchijou/fluent-design-app-list) - Continuously updated list of apps that follows Microsoft Fluent Design 2 (WinUI3) guidelines
 - [Chenyu-otf/chenyuluoyan_thin](https://github.com/Chenyu-otf/chenyuluoyan_thin) - 「辰宇落雁體」是我與韋辰在學校的自主學習計畫，由韋辰負責書寫，我進行後製而成。手寫字型就像是我們將字詞複寫於紙上，讓字跡留下，以這種近似雋永的形式封裝，使被複寫的日常沒有保存期限，也像是一種永恆的召喚，在任何無法抵達的以後，都能為你書寫成篇。
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
