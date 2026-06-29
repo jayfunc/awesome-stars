@@ -56,6 +56,8 @@
 
 ## C# # 
 
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
+- [amwx/FluentAvalonia](https://github.com/amwx/FluentAvalonia) - Control library focused on fluent design and bringing more WinUI controls into Avalonia
 - [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
 - [cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark) - jellyfin电影元数据插件
 - [m8tec/apple-music-animated-artworks](https://github.com/m8tec/apple-music-animated-artworks) - Fetch & download Apple Music animated album artworks as mp4 or webp. Supports search by artist/album or direct URL.
