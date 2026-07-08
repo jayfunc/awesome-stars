@@ -73,11 +73,13 @@
 - [json](#json)
 - [kotlin](#kotlin)
 - [language](#language)
+- [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
+- [localization](#localization)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -346,6 +348,7 @@
 
 ## csharp 
 
+- [davidxuang/FluentIcons](https://github.com/davidxuang/FluentIcons) - A multi-framework control library of https://github.com/microsoft/fluentui-system-icons
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
 - [DubyaDude/WindowsMediaController](https://github.com/DubyaDude/WindowsMediaController) - Allows developers to more easily get information from and interact with the Windows 10/11 OS media interface. (Also referred to Windows System Media Transport Controls (SMTC))
@@ -415,6 +418,8 @@
 
 ## dotnet 
 
+- [davidxuang/FluentIcons](https://github.com/davidxuang/FluentIcons) - A multi-framework control library of https://github.com/microsoft/fluentui-system-icons
+- [Antelcat/I18N](https://github.com/Antelcat/I18N) - Reactive language support for WPF/Avalonia applications when using .resx file.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [amwx/FluentAvalonia](https://github.com/amwx/FluentAvalonia) - Control library focused on fluent design and bringing more WinUI controls into Avalonia
 - [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
@@ -633,6 +638,10 @@
 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
+## languages 
+
+- [Antelcat/I18N](https://github.com/Antelcat/I18N) - Reactive language support for WPF/Avalonia applications when using .resx file.
+
 ## laravel 
 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -662,6 +671,10 @@
 ## llm 
 
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+## localization 
+
+- [Antelcat/I18N](https://github.com/Antelcat/I18N) - Reactive language support for WPF/Avalonia applications when using .resx file.
 
 ## mac 
 
@@ -708,6 +721,7 @@
 
 ## mobile 
 
+- [davidxuang/FluentIcons](https://github.com/davidxuang/FluentIcons) - A multi-framework control library of https://github.com/microsoft/fluentui-system-icons
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
@@ -770,7 +784,8 @@
 
 ## others 
 
-- [interface95/avalonia-macos-build-guide](https://github.com/interface95/avalonia-macos-build-guide) - 详细的 Avalonia macOS 应用打包指南，包含手动构建和自动化脚本
+- [mysteryx93/HanumanInstitute.MvvmDialogs](https://github.com/mysteryx93/HanumanInstitute.MvvmDialogs) - Library simplifying the concept of opening dialogs from a view model when using MVVM
+- [russkyc/sortable-avalonia](https://github.com/russkyc/sortable-avalonia) - MVVM sort, swap, and cross-collection transfer for Avalonia
 - [SnowLuma/SnowLuma](https://github.com/SnowLuma/SnowLuma) - Next Remote Protocol Framework.
 - [cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark) - jellyfin电影元数据插件
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
@@ -1095,6 +1110,7 @@
 
 ## ui 
 
+- [xiyaowong/Message.Avalonia](https://github.com/xiyaowong/Message.Avalonia) - A lightweight and user-friendly notification/toast library for Avalonia UI.
 - [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 500+ apps that embrace the WinUI 3 Design
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
