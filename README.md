@@ -61,6 +61,11 @@
 
 ## C# # 
 
+- [mysteryx93/HanumanInstitute.MvvmDialogs](https://github.com/mysteryx93/HanumanInstitute.MvvmDialogs) - Library simplifying the concept of opening dialogs from a view model when using MVVM
+- [davidxuang/FluentIcons](https://github.com/davidxuang/FluentIcons) - A multi-framework control library of https://github.com/microsoft/fluentui-system-icons
+- [Antelcat/I18N](https://github.com/Antelcat/I18N) - Reactive language support for WPF/Avalonia applications when using .resx file.
+- [russkyc/sortable-avalonia](https://github.com/russkyc/sortable-avalonia) - MVVM sort, swap, and cross-collection transfer for Avalonia
+- [xiyaowong/Message.Avalonia](https://github.com/xiyaowong/Message.Avalonia) - A lightweight and user-friendly notification/toast library for Avalonia UI.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [amwx/FluentAvalonia](https://github.com/amwx/FluentAvalonia) - Control library focused on fluent design and bringing more WinUI controls into Avalonia
 - [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
@@ -396,7 +401,6 @@
 
 ## Shell 
 
-- [interface95/avalonia-macos-build-guide](https://github.com/interface95/avalonia-macos-build-guide) - 详细的 Avalonia macOS 应用打包指南，包含手动构建和自动化脚本
 - [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
 - [Decathlon/release-notes-generator-action](https://github.com/Decathlon/release-notes-generator-action) - Action to auto generate a release note based on your events
 - [yc9559/uperf](https://github.com/yc9559/uperf) - Userspace performance controller for android
