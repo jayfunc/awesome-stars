@@ -62,12 +62,6 @@
 ## C# # 
 
 - [mysteryx93/HanumanInstitute.MvvmDialogs](https://github.com/mysteryx93/HanumanInstitute.MvvmDialogs) - Library simplifying the concept of opening dialogs from a view model when using MVVM
-- [davidxuang/FluentIcons](https://github.com/davidxuang/FluentIcons) - A multi-framework control library of https://github.com/microsoft/fluentui-system-icons
-- [Antelcat/I18N](https://github.com/Antelcat/I18N) - Reactive language support for WPF/Avalonia applications when using .resx file.
-- [russkyc/sortable-avalonia](https://github.com/russkyc/sortable-avalonia) - MVVM sort, swap, and cross-collection transfer for Avalonia
-- [xiyaowong/Message.Avalonia](https://github.com/xiyaowong/Message.Avalonia) - A lightweight and user-friendly notification/toast library for Avalonia UI.
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
-- [amwx/FluentAvalonia](https://github.com/amwx/FluentAvalonia) - Control library focused on fluent design and bringing more WinUI controls into Avalonia
 - [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
 - [cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark) - jellyfin电影元数据插件
 - [m8tec/apple-music-animated-artworks](https://github.com/m8tec/apple-music-animated-artworks) - Fetch & download Apple Music animated album artworks as mp4 or webp. Supports search by artist/album or direct URL.
@@ -265,6 +259,7 @@
 
 ## Kotlin 
 
+- [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 - [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui) - Fluent Design UI library for Compose Multiplatform
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
@@ -298,6 +293,7 @@
 
 ## Others 
 
+- [terrakok/kmp-awesome](https://github.com/terrakok/kmp-awesome) - An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.
 - [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 500+ apps that embrace the WinUI 3 Design
 - [HotarunIchijou/fluent-design-app-list](https://github.com/HotarunIchijou/fluent-design-app-list) - Continuously updated list of apps that follows Microsoft Fluent Design 2 (WinUI3) guidelines
 - [Chenyu-otf/chenyuluoyan_thin](https://github.com/Chenyu-otf/chenyuluoyan_thin) - 「辰宇落雁體」是我與韋辰在學校的自主學習計畫，由韋辰負責書寫，我進行後製而成。手寫字型就像是我們將字詞複寫於紙上，讓字跡留下，以這種近似雋永的形式封裝，使被複寫的日常沒有保存期限，也像是一種永恆的召喚，在任何無法抵達的以後，都能為你書寫成篇。
