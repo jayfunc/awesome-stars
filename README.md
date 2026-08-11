@@ -411,6 +411,7 @@
 
 ## TypeScript 
 
+- [yuyou-dev/OpenHome3D](https://github.com/yuyou-dev/OpenHome3D) - A cartoon-style 3D home designer that runs entirely in your browser — seeded procedural layouts, cel-shaded toon rendering, Neo-Brutalism UI, 337 CC0 furniture models. No backend, no API keys.
 - [SnowLuma/SnowLuma](https://github.com/SnowLuma/SnowLuma) - Next Remote Protocol Framework.
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [remotion-dev/github-unwrapped](https://github.com/remotion-dev/github-unwrapped) - Your coding year in review
