@@ -779,6 +779,7 @@
 
 ## others 
 
+- [yuyou-dev/OpenHome3D](https://github.com/yuyou-dev/OpenHome3D) - A cartoon-style 3D home designer that runs entirely in your browser — seeded procedural layouts, cel-shaded toon rendering, Neo-Brutalism UI, 337 CC0 furniture models. No backend, no API keys.
 - [mysteryx93/HanumanInstitute.MvvmDialogs](https://github.com/mysteryx93/HanumanInstitute.MvvmDialogs) - Library simplifying the concept of opening dialogs from a view model when using MVVM
 - [SnowLuma/SnowLuma](https://github.com/SnowLuma/SnowLuma) - Next Remote Protocol Framework.
 - [cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark) - jellyfin电影元数据插件
