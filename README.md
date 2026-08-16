@@ -245,7 +245,6 @@
 - [moeshin/ai-schedule-chaoxing](https://github.com/moeshin/ai-schedule-chaoxing) - 小爱课程表适配-超星综合教学管理系统
 - [yusixian/AISchedule_myparser](https://github.com/yusixian/AISchedule_myparser) - 小爱课程表适配新正方教务系统-已适配河南工业大学、广西大学
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 - [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
@@ -434,6 +433,7 @@
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [zhongbr/hbut-life-mp](https://github.com/zhongbr/hbut-life-mp) - 湖工life小程序
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 
 ## VBScript 
