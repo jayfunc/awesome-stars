@@ -186,7 +186,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -382,6 +382,8 @@
 
 ## Rust 
 
+- [afeibukaixin/Lyrics-Plus](https://github.com/afeibukaixin/Lyrics-Plus) - An open-source, customizable lyrics companion for macOS with desktop, menu bar, lyrics window, and Dynamic Island modes. Supports Apple Music, Spotify, and system media.
+- [nohackjustnoobb/media-remote](https://github.com/nohackjustnoobb/media-remote) - A bindings library for Apple's private framework, MediaRemote.
 - [luizvbo/kstars](https://github.com/luizvbo/kstars) - Top 1000 repositories on GitHub (with more stars)
 - [apoint123/QQMusic-ID-Injector](https://github.com/apoint123/QQMusic-ID-Injector) - 一个适用于 QQ 音乐客户端的插件，可将 QQ 音乐当前播放的 ID 上传到 SMTC 中。
 - [amll-dev/amll-ttml-db](https://github.com/amll-dev/amll-ttml-db) - 作者特供给 AMLL 的 TTML 逐词歌词库，也欢迎大家前来建设本仓库
