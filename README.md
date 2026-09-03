@@ -386,7 +386,7 @@
 
 ## Rust 
 
-- [afeibukaixin/Lyrics-Plus](https://github.com/afeibukaixin/Lyrics-Plus) - An open-source, customizable lyrics companion for macOS with desktop, menu bar, lyrics window, and Dynamic Island modes. Supports Apple Music, Spotify, and system media.
+- [afeibukaixin/Lyrics-Plus](https://github.com/afeibukaixin/Lyrics-Plus) - An open-source, customizable macOS Lyrics Companion｜支持桌面歌词、菜单栏歌词、歌词窗口与 Dynamic Island，兼容 Apple Music、Spotify 及系统媒体播放器。
 - [nohackjustnoobb/media-remote](https://github.com/nohackjustnoobb/media-remote) - A bindings library for Apple's private framework, MediaRemote.
 - [luizvbo/kstars](https://github.com/luizvbo/kstars) - Top 1000 repositories on GitHub (with more stars)
 - [apoint123/QQMusic-ID-Injector](https://github.com/apoint123/QQMusic-ID-Injector) - 一个适用于 QQ 音乐客户端的插件，可将 QQ 音乐当前播放的 ID 上传到 SMTC 中。
