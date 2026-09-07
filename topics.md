@@ -37,6 +37,7 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [database](#database)
 - [deep-learning](#deep-learning)
@@ -62,6 +63,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [gui](#gui)
+- [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [http](#http)
@@ -121,6 +123,7 @@
 - [rust](#rust)
 - [sass](#sass)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -378,6 +381,10 @@
 - [mdbootstrap/bootstrap-fluent-design](https://github.com/mdbootstrap/bootstrap-fluent-design) - Fluent Design Theme for Bootstrap - inspired by Windows style and based on the latest Bootstrap 5.
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 
+## cybersecurity 
+
+- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
+
 ## dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -533,6 +540,10 @@
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
 - [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
+
+## hacking 
+
+- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 ## hacktoberfest 
 
@@ -1022,6 +1033,7 @@
 
 ## reverse-engineering 
 
+- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 
 ## rust 
@@ -1037,7 +1049,12 @@
 
 ## security 
 
+- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [osipxd/encrypted-datastore](https://github.com/osipxd/encrypted-datastore) - Extensions to store DataStore in EncryptedFile
+
+## security-tools 
+
+- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 ## self-hosted 
 
@@ -1195,6 +1212,7 @@
 
 ## windows 
 
+- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
