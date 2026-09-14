@@ -421,6 +421,7 @@
 
 ## TypeScript 
 
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key
 - [yuyou-dev/OpenHome3D](https://github.com/yuyou-dev/OpenHome3D) - A cartoon-style 3D home designer that runs entirely in your browser — seeded procedural layouts, cel-shaded toon rendering, Neo-Brutalism UI, 337 CC0 furniture models. No backend, no API keys.
 - [SnowLuma/SnowLuma](https://github.com/SnowLuma/SnowLuma) - Next Remote Protocol Framework.
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
