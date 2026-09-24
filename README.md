@@ -299,6 +299,7 @@
 
 ## Others 
 
+- [jayfunc/koishi-test](https://github.com/jayfunc/koishi-test) - 
 - [zDyant/Vision-Cursor](https://github.com/zDyant/Vision-Cursor) - Clean cursor inspired by Windows 11 style
 - [terrakok/kmp-awesome](https://github.com/terrakok/kmp-awesome) - An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.
 - [HotarunIchijou/fluent-design-app-list](https://github.com/HotarunIchijou/fluent-design-app-list) - Continuously updated list of apps that follows Microsoft Fluent Design 2 (WinUI3) guidelines
