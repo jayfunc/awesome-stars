@@ -466,6 +466,7 @@
 
 ## dotnet 
 
+- [gluschenko/panlingo](https://github.com/gluschenko/panlingo) - Collection of language detection libraries for .NET: FastText, CLD2, CLD3, MediaPipe, Lingua, Whatlang
 - [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
@@ -727,6 +728,7 @@
 
 ## machine-learning 
 
+- [gluschenko/panlingo](https://github.com/gluschenko/panlingo) - Collection of language detection libraries for .NET: FastText, CLD2, CLD3, MediaPipe, Lingua, Whatlang
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 
 ## macos 
@@ -804,6 +806,7 @@
 
 ## nlp 
 
+- [gluschenko/panlingo](https://github.com/gluschenko/panlingo) - Collection of language detection libraries for .NET: FastText, CLD2, CLD3, MediaPipe, Lingua, Whatlang
 - [polm/cutlet](https://github.com/polm/cutlet) - Japanese to romaji converter in Python
 
 ## no-code 
