@@ -22,6 +22,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Less](#less)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Others](#others)
 - [PHP](#php)
@@ -61,6 +62,7 @@
 
 ## C# # 
 
+- [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [gluschenko/panlingo](https://github.com/gluschenko/panlingo) - Collection of language detection libraries for .NET: FastText, CLD2, CLD3, MediaPipe, Lingua, Whatlang
 - [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [mysteryx93/HanumanInstitute.MvvmDialogs](https://github.com/mysteryx93/HanumanInstitute.MvvmDialogs) - Library simplifying the concept of opening dialogs from a view model when using MVVM
@@ -169,6 +171,7 @@
 
 ## Dart 
 
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -294,6 +297,10 @@
 ## Less 
 
 - [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) - Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos.   It also supports automatic and manual switching between light and dark modes.
+
+## Lua 
+
+- [Openwrt-Passwall/openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) - A simple powerful OpenWrt LuCI proxy application.
 
 ## MDX 
 
