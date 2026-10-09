@@ -171,7 +171,9 @@
 
 ## Dart 
 
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
+- [AhmeedGamil/liquid_glass_easy](https://github.com/AhmeedGamil/liquid_glass_easy) - A Flutter package that brings Apple's iOS-style Liquid Glass to your app with real-time, interactive lenses
+- [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Microsoft's WinUI3 in Flutter.
+- [paadevelopments/material_3_expressive](https://github.com/paadevelopments/material_3_expressive) - A faithful, dependency-light Flutter implementation of the Material 3 (https://m3.material.io/components) Expressive component set. See live demo at https://paadevelopments.github.io/material_3_expres
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
