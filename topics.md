@@ -208,6 +208,7 @@
 
 ## android 
 
+- [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard) - Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required.
 - [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [terrakok/kmp-awesome](https://github.com/terrakok/kmp-awesome) - An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.
 - [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) - 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
