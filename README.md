@@ -63,6 +63,7 @@
 ## C# # 
 
 - [SuRGeoNix/Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Media Player .NET Library for WinUI 3/ WPF/WinForms (based on FFmpeg/DirectX)
+- [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
 - [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [gluschenko/panlingo](https://github.com/gluschenko/panlingo) - Collection of language detection libraries for .NET: FastText, CLD2, CLD3, MediaPipe, Lingua, Whatlang
 - [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
@@ -361,6 +362,7 @@
 ## Python 
 
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 800+ apps that embrace the WinUI Design
 - [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
@@ -439,7 +441,6 @@
 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
-- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key
 - [yuyou-dev/OpenHome3D](https://github.com/yuyou-dev/OpenHome3D) - A cartoon-style 3D home designer that runs entirely in your browser — seeded procedural layouts, cel-shaded toon rendering, Neo-Brutalism UI, 337 CC0 furniture models. No backend, no API keys.
 - [SnowLuma/SnowLuma](https://github.com/SnowLuma/SnowLuma) - Next Remote Protocol Framework.
