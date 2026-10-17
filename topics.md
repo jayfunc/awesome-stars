@@ -865,6 +865,7 @@
 
 ## others 
 
+- [NapNeko/NTQQAntiRecall](https://github.com/NapNeko/NTQQAntiRecall) - NTQQ反撤回
 - [SuRGeoNix/Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Media Player .NET Library for WinUI 3/ WPF/WinForms (based on FFmpeg/DirectX)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [Openwrt-Passwall/openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) - A simple powerful OpenWrt LuCI proxy application.
