@@ -11,6 +11,7 @@
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
+- [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [android](#android)
 - [api](#api)
@@ -53,6 +54,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
+- [dsh-plugin](#dsh-plugin)
 - [electron](#electron)
 - [emulator](#emulator)
 - [english](#english)
@@ -201,6 +203,10 @@
 ## ai-agent 
 
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+
+## ai-agents 
+
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 
 ## algorithm 
 
@@ -497,6 +503,10 @@
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
+
+## dsh-plugin 
+
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 
 ## electron 
 
@@ -904,7 +914,7 @@
 - [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
 - [Zeugma440/atldotnet](https://github.com/Zeugma440/atldotnet) - Fully managed, portable and easy-to-use C# library to read and edit audio data and metadata (tags) from various audio formats, playlists and CUE sheets
 - [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐】
-- [ghost1372/DevWinUI](https://github.com/ghost1372/DevWinUI) - DevWinUI is a collection of useful classes, controls, styles, and codes for WinUI 3. Create a WinUI 3 app in less than a minute with the built-in project templates and scaffolding tools.
+- [ghost1372/DevWinUI](https://github.com/ghost1372/DevWinUI) - DevWinUI is a collection of useful classes, controls, styles, and codes for WinUI 3. Create a WinUI app in less than a minute with the built-in project templates and scaffolding tools.
 - [mono/taglib-sharp](https://github.com/mono/taglib-sharp) - Library for reading and writing metadata in media files
 - [TwilightLemon/MyToolBar](https://github.com/TwilightLemon/MyToolBar) - 为Surface Pro而生的顶部工具栏 支持触控和笔快捷方式
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
