@@ -99,7 +99,7 @@
 - [KSemenenko/ColorThief](https://github.com/KSemenenko/ColorThief) - Color Thief for .NET
 - [Zeugma440/atldotnet](https://github.com/Zeugma440/atldotnet) - Fully managed, portable and easy-to-use C# library to read and edit audio data and metadata (tags) from various audio formats, playlists and CUE sheets
 - [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐】
-- [ghost1372/DevWinUI](https://github.com/ghost1372/DevWinUI) - DevWinUI is a collection of useful classes, controls, styles, and codes for WinUI 3. Create a WinUI 3 app in less than a minute with the built-in project templates and scaffolding tools.
+- [ghost1372/DevWinUI](https://github.com/ghost1372/DevWinUI) - DevWinUI is a collection of useful classes, controls, styles, and codes for WinUI 3. Create a WinUI app in less than a minute with the built-in project templates and scaffolding tools.
 - [mono/taglib-sharp](https://github.com/mono/taglib-sharp) - Library for reading and writing metadata in media files
 - [HavenDV/H.NotifyIcon](https://github.com/HavenDV/H.NotifyIcon) - TrayIcon for WPF/WinUI/Uno/MAUI
 - [TwilightLemon/MyToolBar](https://github.com/TwilightLemon/MyToolBar) - 为Surface Pro而生的顶部工具栏 支持触控和笔快捷方式
@@ -179,7 +179,6 @@
 ## Dart 
 
 - [AhmeedGamil/liquid_glass_easy](https://github.com/AhmeedGamil/liquid_glass_easy) - A Flutter package that brings Apple's iOS-style Liquid Glass to your app with real-time, interactive lenses
-- [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Microsoft's WinUI3 in Flutter.
 - [paadevelopments/material_3_expressive](https://github.com/paadevelopments/material_3_expressive) - A faithful, dependency-light Flutter implementation of the Material 3 (https://m3.material.io/components) Expressive component set. See live demo at https://paadevelopments.github.io/material_3_expres
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -253,6 +252,7 @@
 
 ## JavaScript 
 
+- [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Microsoft's WinUI3 in Flutter.
 - [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) - 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
@@ -440,6 +440,7 @@
 
 ## TypeScript 
 
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key
