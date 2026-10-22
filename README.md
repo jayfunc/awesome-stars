@@ -62,7 +62,6 @@
 
 ## C# # 
 
-- [SuRGeoNix/Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Media Player .NET Library for WinUI 3/ WPF/WinForms (based on FFmpeg/DirectX)
 - [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
 - [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [gluschenko/panlingo](https://github.com/gluschenko/panlingo) - Collection of language detection libraries for .NET: FastText, CLD2, CLD3, MediaPipe, Lingua, Whatlang
