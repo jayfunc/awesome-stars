@@ -279,7 +279,7 @@
 
 ## awesome-list 
 
-- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
+- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
 - [HotarunIchijou/fluent-design-app-list](https://github.com/HotarunIchijou/fluent-design-app-list) - Continuously updated list of apps that follows Microsoft Fluent Design 2 (WinUI3) guidelines
 
 ## bootstrap 
@@ -450,7 +450,7 @@
 
 ## design 
 
-- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
+- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 
 ## developer-tools 
@@ -1232,7 +1232,7 @@
 
 ## ui 
 
-- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
+- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
@@ -1351,7 +1351,7 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
+- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
 - [HotarunIchijou/fluent-design-app-list](https://github.com/HotarunIchijou/fluent-design-app-list) - Continuously updated list of apps that follows Microsoft Fluent Design 2 (WinUI3) guidelines
 - [DubyaDude/WindowsMediaController](https://github.com/DubyaDude/WindowsMediaController) - Allows developers to more easily get information from and interact with the Windows 10/11 OS media interface. (Also referred to Windows System Media Transport Controls (SMTC))
 - [rocksdanister/weather](https://github.com/rocksdanister/weather) - Windows native weather app powered by DirectX12 animations
