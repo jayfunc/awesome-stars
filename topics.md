@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -179,6 +180,10 @@
 ## agent 
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
+
+## agent-skills 
+
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 
 ## agents 
 
@@ -745,6 +750,7 @@
 
 ## llm 
 
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
@@ -782,6 +788,7 @@
 
 ## material-design 
 
+- [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 - [paadevelopments/material_3_expressive](https://github.com/paadevelopments/material_3_expressive) - A faithful, dependency-light Flutter implementation of the Material 3 (https://m3.material.io/components) Expressive component set. See live demo at https://paadevelopments.github.io/material_3_expres
 - [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
@@ -832,6 +839,7 @@
 
 ## nextjs 
 
+- [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
@@ -878,6 +886,7 @@
 
 ## others 
 
+- [PixelPlayerHQ/PixelPlayerOSS](https://github.com/PixelPlayerHQ/PixelPlayerOSS) - Free and open-source edition of PixelPlayer - a modern offline music player for Android built with Jetpack Compose, Media3 & Material 3. Available on F-Droid.
 - [slobys/openclash-auto-installer](https://github.com/slobys/openclash-auto-installer) - OpenClash one-click install/update/uninstall/repair scripts for OpenWrt, iStoreOS and ImmortalWrt
 - [NapNeko/NTQQAntiRecall](https://github.com/NapNeko/NTQQAntiRecall) - NTQQ反撤回
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -1099,6 +1108,7 @@
 
 ## react 
 
+- [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 - [afeibukaixin/Lyrics-Plus](https://github.com/afeibukaixin/Lyrics-Plus) - An open-source, customizable macOS Lyrics Companion｜支持桌面歌词、菜单栏歌词、歌词窗口与 Dynamic Island，兼容 Apple Music、Spotify 及系统媒体播放器。
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
