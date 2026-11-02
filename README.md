@@ -279,6 +279,7 @@
 
 ## Kotlin 
 
+- [PixelPlayerHQ/PixelPlayerOSS](https://github.com/PixelPlayerHQ/PixelPlayerOSS) - Free and open-source edition of PixelPlayer - a modern offline music player for Android built with Jetpack Compose, Media3 & Material 3. Available on F-Droid.
 - [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 - [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui) - Fluent Design UI library for Compose Multiplatform
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
@@ -318,7 +319,7 @@
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - 
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
-- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
+- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify, Apple Music and other apps. 一款为 Spotify、Apple Music 等各种应用提供滚动歌词的软件。
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [boyan01/flutter-netease-music](https://github.com/boyan01/flutter-netease-music) - flutter music player application. (仿网易云音乐)
@@ -436,6 +437,8 @@
 
 ## TypeScript 
 
+- [transitive-bullshit/apple-music-effect](https://github.com/transitive-bullshit/apple-music-effect) - Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.
+- [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
