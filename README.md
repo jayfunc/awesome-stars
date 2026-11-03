@@ -311,6 +311,7 @@
 
 ## Others 
 
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
 - [jayfunc/koishi-test](https://github.com/jayfunc/koishi-test) - 
 - [zDyant/Vision-Cursor](https://github.com/zDyant/Vision-Cursor) - Clean cursor inspired by Windows 11 style
 - [terrakok/kmp-awesome](https://github.com/terrakok/kmp-awesome) - An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.
@@ -352,6 +353,7 @@
 
 ## PowerShell 
 
+- [skydashnet/material-design-3-ui-skill](https://github.com/skydashnet/material-design-3-ui-skill) - A reusable Agent Skill for designing, reviewing, and implementing UI/UX with Google Material Design 3, Material You, M3 Expressive, accessibility, adaptive layouts, and semantic design tokens.
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [gucci-on-fleek/lockdown-browser](https://github.com/gucci-on-fleek/lockdown-browser) - Run the ”Respondus Lockdown Browser“ in the ”Windows Sandbox“
 - [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
