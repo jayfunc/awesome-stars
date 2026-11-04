@@ -220,6 +220,7 @@
 
 ## android 
 
+- [1372Slash/Zenith](https://github.com/1372Slash/Zenith) - A Material Design 3 Expressive Digital Wellbeing App
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
 - [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard) - Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required.
 - [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
@@ -300,7 +301,7 @@
 ## awesome-list 
 
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
-- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
+- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 1000+ apps that embrace the WinUI Design
 - [HotarunIchijou/fluent-design-app-list](https://github.com/HotarunIchijou/fluent-design-app-list) - Continuously updated list of apps that follows Microsoft Fluent Design 2 (WinUI3) guidelines
 
 ## bootstrap 
@@ -471,7 +472,7 @@
 
 ## design 
 
-- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
+- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 1000+ apps that embrace the WinUI Design
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 
 ## developer-tools 
@@ -726,6 +727,7 @@
 
 ## kotlin 
 
+- [1372Slash/Zenith](https://github.com/1372Slash/Zenith) - A Material Design 3 Expressive Digital Wellbeing App
 - [terrakok/kmp-awesome](https://github.com/terrakok/kmp-awesome) - An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.
 - [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui) - Fluent Design UI library for Compose Multiplatform
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
@@ -805,6 +807,7 @@
 
 ## material-design 
 
+- [1372Slash/Zenith](https://github.com/1372Slash/Zenith) - A Material Design 3 Expressive Digital Wellbeing App
 - [skydashnet/material-design-3-ui-skill](https://github.com/skydashnet/material-design-3-ui-skill) - A reusable Agent Skill for designing, reviewing, and implementing UI/UX with Google Material Design 3, Material You, M3 Expressive, accessibility, adaptive layouts, and semantic design tokens.
 - [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 - [paadevelopments/material_3_expressive](https://github.com/paadevelopments/material_3_expressive) - A faithful, dependency-light Flutter implementation of the Material 3 (https://m3.material.io/components) Expressive component set. See live demo at https://paadevelopments.github.io/material_3_expres
@@ -1260,7 +1263,7 @@
 
 ## ui 
 
-- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
+- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 1000+ apps that embrace the WinUI Design
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
@@ -1379,7 +1382,7 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
+- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 1000+ apps that embrace the WinUI Design
 - [HotarunIchijou/fluent-design-app-list](https://github.com/HotarunIchijou/fluent-design-app-list) - Continuously updated list of apps that follows Microsoft Fluent Design 2 (WinUI3) guidelines
 - [DubyaDude/WindowsMediaController](https://github.com/DubyaDude/WindowsMediaController) - Allows developers to more easily get information from and interact with the Windows 10/11 OS media interface. (Also referred to Windows System Media Transport Controls (SMTC))
 - [rocksdanister/weather](https://github.com/rocksdanister/weather) - Windows native weather app powered by DirectX12 animations
