@@ -356,7 +356,6 @@
 
 ## PowerShell 
 
-- [skydashnet/material-design-3-ui-skill](https://github.com/skydashnet/material-design-3-ui-skill) - A reusable Agent Skill for designing, reviewing, and implementing UI/UX with Google Material Design 3, Material You, M3 Expressive, accessibility, adaptive layouts, and semantic design tokens.
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [gucci-on-fleek/lockdown-browser](https://github.com/gucci-on-fleek/lockdown-browser) - Run the ”Respondus Lockdown Browser“ in the ”Windows Sandbox“
 - [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
@@ -425,6 +424,7 @@
 
 ## Shell 
 
+- [hamen/material-3-skill](https://github.com/hamen/material-3-skill) - Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit
 - [slobys/openclash-auto-installer](https://github.com/slobys/openclash-auto-installer) - OpenClash one-click install/update/uninstall/repair scripts for OpenWrt, iStoreOS and ImmortalWrt
 - [LongQT-sea/macos-iso-builder](https://github.com/LongQT-sea/macos-iso-builder) - Generate bootable macOS installer ISO or DMG images directly from Apple servers via GitHub Actions - no Mac required. Mac OS X 10.7 - macOS 26 Tahoe
 - [DrDonk/OC4VM](https://github.com/DrDonk/OC4VM) - OpenCore for VMware
