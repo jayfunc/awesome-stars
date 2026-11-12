@@ -139,7 +139,6 @@
 
 ## C++ 
 
-- [NapNeko/NTQQAntiRecall](https://github.com/NapNeko/NTQQAntiRecall) - NTQQ反撤回
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -443,6 +442,7 @@
 
 ## TypeScript 
 
+- [NapukettoDev/NapukettoQQ](https://github.com/NapukettoDev/NapukettoQQ) - 基于 QQNT 客户端原生模块的机器人框架，对外提供多个协议接口
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) - DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物
 - [transitive-bullshit/apple-music-effect](https://github.com/transitive-bullshit/apple-music-effect) - Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.
