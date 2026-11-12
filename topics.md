@@ -22,6 +22,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bootstrap](#bootstrap)
+- [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [c-sharp](#c-sharp)
@@ -303,6 +304,10 @@
 - [mdbootstrap/bootstrap-fluent-design](https://github.com/mdbootstrap/bootstrap-fluent-design) - Fluent Design Theme for Bootstrap - inspired by Windows style and based on the latest Bootstrap 5.
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 
+## bot 
+
+- [NapukettoDev/NapukettoQQ](https://github.com/NapukettoDev/NapukettoQQ) - 基于 QQNT 客户端原生模块的机器人框架，对外提供多个协议接口
+
 ## c 
 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -567,6 +572,7 @@
 
 ## framework 
 
+- [NapukettoDev/NapukettoQQ](https://github.com/NapukettoDev/NapukettoQQ) - 基于 QQNT 客户端原生模块的机器人框架，对外提供多个协议接口
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 - [ElderDrivers/EdXposedManager](https://github.com/ElderDrivers/EdXposedManager) - Companion Android application for EdXposed
 
@@ -892,7 +898,6 @@
 - [hamen/material-3-skill](https://github.com/hamen/material-3-skill) - Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit
 - [PixelPlayerHQ/PixelPlayerOSS](https://github.com/PixelPlayerHQ/PixelPlayerOSS) - Free and open-source edition of PixelPlayer - a modern offline music player for Android built with Jetpack Compose, Media3 & Material 3. Available on F-Droid.
 - [slobys/openclash-auto-installer](https://github.com/slobys/openclash-auto-installer) - OpenClash one-click install/update/uninstall/repair scripts for OpenWrt, iStoreOS and ImmortalWrt
-- [NapNeko/NTQQAntiRecall](https://github.com/NapNeko/NTQQAntiRecall) - NTQQ反撤回
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [jayfunc/koishi-test](https://github.com/jayfunc/koishi-test) - 
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key
@@ -1231,6 +1236,7 @@
 
 ## typescript 
 
+- [NapukettoDev/NapukettoQQ](https://github.com/NapukettoDev/NapukettoQQ) - 基于 QQNT 客户端原生模块的机器人框架，对外提供多个协议接口
 - [afeibukaixin/Lyrics-Plus](https://github.com/afeibukaixin/Lyrics-Plus) - An open-source, customizable macOS Lyrics Companion｜支持桌面歌词、菜单栏歌词、歌词窗口与 Dynamic Island，兼容 Apple Music、Spotify 及系统媒体播放器。
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
