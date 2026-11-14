@@ -127,6 +127,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [rag](#rag)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
@@ -780,6 +781,7 @@
 
 ## macos 
 
+- [ImUpXuu/SIWX](https://github.com/ImUpXuu/SIWX) - Stories in WeChat 一个开源的Windows macOS全平台 微信聊天记录导出工具 支持解密数据库与媒体 致力于做到 我的数据我做主
 - [afeibukaixin/Lyrics-Plus](https://github.com/afeibukaixin/Lyrics-Plus) - An open-source, customizable macOS Lyrics Companion｜支持桌面歌词、菜单栏歌词、歌词窗口与 Dynamic Island，兼容 Apple Music、Spotify 及系统媒体播放器。
 - [nohackjustnoobb/media-remote](https://github.com/nohackjustnoobb/media-remote) - A bindings library for Apple's private framework, MediaRemote.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
@@ -810,6 +812,7 @@
 
 ## mcp 
 
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 
 ## microsoft 
@@ -894,12 +897,12 @@
 
 ## others 
 
+- [Wayoung7/3D-Pixel-Campfire](https://github.com/Wayoung7/3D-Pixel-Campfire) - 
 - [Computershik73/megler-w10m](https://github.com/Computershik73/megler-w10m) - Megler: Android apps on Windows 10 Mobile - native ARM code, Google Play, Chromium WebView and drawing on the GPU. Not an emulator.
 - [hamen/material-3-skill](https://github.com/hamen/material-3-skill) - Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit
 - [PixelPlayerHQ/PixelPlayerOSS](https://github.com/PixelPlayerHQ/PixelPlayerOSS) - Free and open-source edition of PixelPlayer - a modern offline music player for Android built with Jetpack Compose, Media3 & Material 3. Available on F-Droid.
 - [slobys/openclash-auto-installer](https://github.com/slobys/openclash-auto-installer) - OpenClash one-click install/update/uninstall/repair scripts for OpenWrt, iStoreOS and ImmortalWrt
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [jayfunc/koishi-test](https://github.com/jayfunc/koishi-test) - 
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted 
 - [zDyant/Vision-Cursor](https://github.com/zDyant/Vision-Cursor) - Clean cursor inspired by Windows 11 style
 - [LongQT-sea/macos-iso-builder](https://github.com/LongQT-sea/macos-iso-builder) - Generate bootable macOS installer ISO or DMG images directly from Apple servers via GitHub Actions - no Mac required. Mac OS X 10.7 - macOS 26 Tahoe
@@ -1109,6 +1112,10 @@
 - [manisandro/gImageReader](https://github.com/manisandro/gImageReader) - A Gtk/Qt front-end to tesseract-ocr.
 - [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
 - [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
+
+## rag 
+
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 
 ## react 
 
@@ -1330,6 +1337,7 @@
 
 ## windows 
 
+- [ImUpXuu/SIWX](https://github.com/ImUpXuu/SIWX) - Stories in WeChat 一个开源的Windows macOS全平台 微信聊天记录导出工具 支持解密数据库与媒体 致力于做到 我的数据我做主
 - [Ray-lea/Argus](https://github.com/Ray-lea/Argus) - 现代 Windows 任务管理器 · A modern task manager for Windows, built with Rust and GPUI Kit.
 - [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Microsoft's WinUI3 in Flutter.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
