@@ -97,7 +97,7 @@
 - [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
 - [KSemenenko/ColorThief](https://github.com/KSemenenko/ColorThief) - Color Thief for .NET
 - [Zeugma440/atldotnet](https://github.com/Zeugma440/atldotnet) - Fully managed, portable and easy-to-use C# library to read and edit audio data and metadata (tags) from various audio formats, playlists and CUE sheets
-- [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐】
+- [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐、汽水音乐】
 - [ghost1372/DevWinUI](https://github.com/ghost1372/DevWinUI) - DevWinUI is a collection of useful classes, controls, styles, and codes for WinUI 3. Create a WinUI app in less than a minute with the built-in project templates and scaffolding tools.
 - [mono/taglib-sharp](https://github.com/mono/taglib-sharp) - Library for reading and writing metadata in media files
 - [HavenDV/H.NotifyIcon](https://github.com/HavenDV/H.NotifyIcon) - TrayIcon for WPF/WinUI/Uno/MAUI
