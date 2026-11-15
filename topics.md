@@ -935,7 +935,7 @@
 - [dotMorten/WinUIEx](https://github.com/dotMorten/WinUIEx) - WinUI Extensions
 - [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
 - [Zeugma440/atldotnet](https://github.com/Zeugma440/atldotnet) - Fully managed, portable and easy-to-use C# library to read and edit audio data and metadata (tags) from various audio formats, playlists and CUE sheets
-- [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐】
+- [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - 云音乐歌词获取处理工具【网易云、QQ音乐、汽水音乐】
 - [mono/taglib-sharp](https://github.com/mono/taglib-sharp) - Library for reading and writing metadata in media files
 - [TwilightLemon/MyToolBar](https://github.com/TwilightLemon/MyToolBar) - 为Surface Pro而生的顶部工具栏 支持触控和笔快捷方式
 - [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
