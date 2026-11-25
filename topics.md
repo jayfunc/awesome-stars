@@ -318,7 +318,7 @@
 
 ## bot 
 
-- [NapukettoDev/NapukettoQQ](https://github.com/NapukettoDev/NapukettoQQ) - 基于 QQNT 客户端原生模块的机器人框架，对外提供多个协议接口
+- [NapukettoDev/Napuketto](https://github.com/NapukettoDev/Napuketto) - 基于客户端原生模块的机器人框架，对外提供多个协议接口
 
 ## c 
 
@@ -593,7 +593,7 @@
 
 ## framework 
 
-- [NapukettoDev/NapukettoQQ](https://github.com/NapukettoDev/NapukettoQQ) - 基于 QQNT 客户端原生模块的机器人框架，对外提供多个协议接口
+- [NapukettoDev/Napuketto](https://github.com/NapukettoDev/Napuketto) - 基于客户端原生模块的机器人框架，对外提供多个协议接口
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 - [ElderDrivers/EdXposedManager](https://github.com/ElderDrivers/EdXposedManager) - Companion Android application for EdXposed
 
@@ -916,6 +916,7 @@
 
 ## others 
 
+- [yeximm/Access_wechat_article](https://github.com/yeximm/Access_wechat_article) - 微信文章爬虫，用于采集、整理和归档微信公众号公开文章元数据，欢迎一起学习讨论。A Windows research workbench for collecting, organizing, and archiving public WeChat article metadata.
 - [Wayoung7/3D-Pixel-Campfire](https://github.com/Wayoung7/3D-Pixel-Campfire) - 
 - [Computershik73/megler-w10m](https://github.com/Computershik73/megler-w10m) - Megler: Android apps on Windows 10 Mobile - native ARM code, Google Play, Chromium WebView and drawing on the GPU. Not an emulator.
 - [hamen/material-3-skill](https://github.com/hamen/material-3-skill) - Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit
@@ -1269,7 +1270,7 @@
 
 ## typescript 
 
-- [NapukettoDev/NapukettoQQ](https://github.com/NapukettoDev/NapukettoQQ) - 基于 QQNT 客户端原生模块的机器人框架，对外提供多个协议接口
+- [NapukettoDev/Napuketto](https://github.com/NapukettoDev/Napuketto) - 基于客户端原生模块的机器人框架，对外提供多个协议接口
 - [afeibukaixin/Lyrics-Plus](https://github.com/afeibukaixin/Lyrics-Plus) - An open-source, customizable macOS Lyrics Companion｜支持桌面歌词、菜单栏歌词、歌词窗口与 Dynamic Island，兼容 Apple Music、Spotify 及系统媒体播放器。
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
