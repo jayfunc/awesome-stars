@@ -366,6 +366,7 @@
 
 ## Python 
 
+- [yeximm/Access_wechat_article](https://github.com/yeximm/Access_wechat_article) - 微信文章爬虫，用于采集、整理和归档微信公众号公开文章元数据，欢迎一起学习讨论。A Windows research workbench for collecting, organizing, and archiving public WeChat article metadata.
 - [ImUpXuu/SIWX](https://github.com/ImUpXuu/SIWX) - Stories in WeChat 一个开源的Windows macOS全平台 微信聊天记录导出工具 支持解密数据库与媒体 致力于做到 我的数据我做主
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -449,7 +450,7 @@
 ## TypeScript 
 
 - [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) 
-- [NapukettoDev/NapukettoQQ](https://github.com/NapukettoDev/NapukettoQQ) - 基于 QQNT 客户端原生模块的机器人框架，对外提供多个协议接口
+- [NapukettoDev/Napuketto](https://github.com/NapukettoDev/Napuketto) - 基于客户端原生模块的机器人框架，对外提供多个协议接口
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) - DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物
 - [transitive-bullshit/apple-music-effect](https://github.com/transitive-bullshit/apple-music-effect) - Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.
